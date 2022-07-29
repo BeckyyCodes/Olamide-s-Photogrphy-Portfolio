@@ -557,7 +557,26 @@ blockquote span{
 }
 
 /******************* end of footer ****************/
-
+.contact-header h2{
+    text-align: center;
+    font-family: 'Square Peg', cursive;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-size: 3rem;
+}
+.line{
+    border-bottom: 1px solid black;
+}
+.contact-main{
+    margin: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.inquiries{
+    padding-bottom: 40px;
+}
+.inquiries h4{
+    font-weight: 400;
+}
 
 
 /***************** Media Queries *****************/
